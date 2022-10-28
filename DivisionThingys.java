@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author sfazacke Shows some of the issues we need to be careful with 
+ * Shows some of the issues we need to be careful with 
  * when dividing integers
  *
  */
