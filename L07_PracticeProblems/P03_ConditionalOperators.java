@@ -43,5 +43,7 @@ public class P03_ConditionalOperators {
 		*/
 		
 		int value = ((int)(Math.random()*2)) == 0 ? -1 : 1;
+		
+		
 	}
 }
