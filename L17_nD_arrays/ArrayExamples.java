@@ -1,3 +1,4 @@
+package cosc111_examples.L17_nD_arrays;
 import java.text.NumberFormat;
 
 /**
